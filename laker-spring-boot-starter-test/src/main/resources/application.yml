@@ -1,0 +1,5 @@
+enc:
+  key: 1234567890123456
+laker:
+  username: laker
+  password: enc:25d778c22331899a1f79eab82a1d930b9abc4633fb948387c764e5f1f9e5bd3f
