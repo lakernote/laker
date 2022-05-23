@@ -1,5 +1,5 @@
 
-package com.github.laker.encrypt;
+package io.github.lakernote.encrypt;
 
 import cn.hutool.core.collection.CollUtil;
 import cn.hutool.core.util.CharsetUtil;
